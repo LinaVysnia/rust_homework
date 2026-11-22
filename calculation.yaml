@@ -1,0 +1,5 @@
+inputs:  
+- a  
+- b 
+output: c 
+expression: "a + b"
